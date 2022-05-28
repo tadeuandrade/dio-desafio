@@ -1,0 +1,1 @@
+Repositório para organização dos projetos, separados pro tecnologia usada
